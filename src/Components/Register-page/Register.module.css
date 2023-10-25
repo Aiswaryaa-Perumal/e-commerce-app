@@ -1,0 +1,37 @@
+.Register-main-container
+{
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+
+}
+.sub-main-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    background-image: url(https://media.istockphoto.com/id/869283118/photo/register-online.jpg?s=170667a&w=0&k=20&c=oEzKEwoNlinie7a26yvEUk4nMV6_-gostDuvr1a2GZE=);
+    background-repeat: no-repeat;
+    background-position: center;background-size: cover;
+    width: 75%;
+    height: 80%;
+    border-radius: 150px;
+}
+.textfield-container
+{
+    /* display: flex; */
+    flex-direction: column;
+}
+.text-fiels-container
+{
+    padding: 20px;
+}
+.text-field
+{
+    background-color: beige;
+    border-radius: 10px;
+}

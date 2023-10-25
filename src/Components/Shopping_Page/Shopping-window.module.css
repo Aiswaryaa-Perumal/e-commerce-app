@@ -1,0 +1,78 @@
+.profile-header
+{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+}
+.main-poster
+{
+    background-color: brown;
+    width: 100%;
+    height: 70vh;
+}
+.brand-image
+{
+ width: 100%;
+ height: 70vh;
+}
+.Card
+{
+    width: 350px;
+    height: 350px;
+    /* background-color: black; */
+    /* padding: 50px !important; */
+    margin: 50px !important;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column !important;
+}
+.card-image
+{
+    width: 300px;
+    height: 300px;
+}
+.card-container
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.header-contents
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.icon-prop
+{
+    width: 30px;
+    height: 30px;
+    margin: 10px
+}
+.icons-main-container
+{
+    display: flex;
+    ;
+}
+.Options-container
+{
+    display: flex;
+    align-items: center;
+}
+.option
+{
+    margin: 40px;
+}
+
+.product-container{
+    text-align: center;
+    justify-content: center;
+}
+
+.product-name{
+    font-weight:bold ;
+    font-style: italic;
+    font-size: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
